@@ -1,0 +1,34 @@
+2023-04-02 22:04:41.473194 - Initialized conversion of CBT127
+2023-04-02 22:04:41.764975 - Received CBT.V504.FILE127.PDS from FILE127.XMI 
+2023-04-02 22:04:41.767332 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/$$$#DATE
+2023-04-02 22:04:41.768913 - Found $DOC.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/$DOC
+2023-04-02 22:04:41.770095 - Found $JCL.jcl (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/$JCL
+2023-04-02 22:04:41.771324 - Found @ENT.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/@ENT
+2023-04-02 22:04:41.772407 - Found @FILE127.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/@FILE127
+2023-04-02 22:04:41.773494 - Found @RET.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/@RET
+2023-04-02 22:04:41.774423 - Found @STCK.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/@STCK
+2023-04-02 22:04:41.775374 - Found CLEAR.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/CLEAR
+2023-04-02 22:04:41.776416 - Found CONV.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/CONV
+2023-04-02 22:04:41.777330 - Found ENTER.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/ENTER
+2023-04-02 22:04:41.778502 - Found ENTERX.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/ENTERX
+2023-04-02 22:04:41.779499 - Found LEAVE.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/LEAVE
+2023-04-02 22:04:41.780819 - Found MSG.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/MSG
+2023-04-02 22:04:41.781737 - Found PDEDSNAM.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/PDEDSNAM
+2023-04-02 22:04:41.782605 - Found REGS.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/REGS
+2023-04-02 22:04:41.783712 - Found SYSGET.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/SYSGET
+2023-04-02 22:04:41.784682 - Found SYSPUT.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/SYSPUT
+2023-04-02 22:04:41.785824 - Found TSCALL.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/TSCALL
+2023-04-02 22:04:41.786857 - Found TSCVDAT.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/TSCVDAT
+2023-04-02 22:04:41.787845 - Found TSCVDATE.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/TSCVDATE
+2023-04-02 22:04:41.788889 - Found TSDYNLXA.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/TSDYNLXA
+2023-04-02 22:04:41.789886 - Found TSENQSP3.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/TSENQSP3
+2023-04-02 22:04:41.790979 - Found TSGTFMAP.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/TSGTFMAP
+2023-04-02 22:04:41.792045 - Found TSSPACE.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/TSSPACE
+2023-04-02 22:04:41.793026 - Found TSSYSTEM.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/TSSYSTEM
+2023-04-02 22:04:41.794002 - Found VTCALL.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/VTCALL
+2023-04-02 22:04:41.795210 - Found VTEXCP.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/VTEXCP
+2023-04-02 22:04:41.796232 - Found VTFMT.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/VTFMT
+2023-04-02 22:04:41.797583 - Found VTOC.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/VTOC
+2023-04-02 22:04:41.798602 - Found VTOCMSG.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/VTOCMSG
+2023-04-02 22:04:41.799747 - Found VTOCOM.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/VTOCOM
+2023-04-02 22:04:41.800699 - Found VTOCPARS.txt (text/plain) in CBT.V504.FILE127.PDS, moved to PDS/VTOCPARS
